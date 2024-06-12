@@ -1,4 +1,4 @@
-name: Custom Workflow
+name: Mnaual workflow
  
 on:
   workflow_dispatch:
